@@ -63,7 +63,7 @@ turbine = "1.2.1"
 
 # ===== Hooking Frameworks =====
 lsposed = "6.4"
-yuki = "1.2.1"
+yuki = "1.3.0"
 
 # ===== Security & Utilities =====
 auraBackendApiGenerator = "1.0.0"
