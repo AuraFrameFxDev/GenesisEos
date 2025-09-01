@@ -159,6 +159,7 @@ tasks.register<Copy>("copyRomTools") {
 }
 
 abstract class VerifyRomToolsTask : DefaultTask() {
+    @get:Internal
     @get:Optional
     abstract val romToolsDir: DirectoryProperty
 
