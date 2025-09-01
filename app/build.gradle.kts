@@ -1,6 +1,6 @@
 plugins {
-    id("com.android.application") version "9.0.0-alpha02" apply false
-    id("com.android.library") version "9.0.0-alpha02" apply false
+    id("com.android.application") version "9.0.0-alpha03" apply false
+    id("com.android.library") version "9.0.0-alpha03" apply false
     alias(libs.plugins.kotlin.android) apply false
     alias(libs.plugins.kotlin.jvm) apply false
     alias(libs.plugins.kotlin.serialization) apply false
