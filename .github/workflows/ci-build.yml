@@ -20,7 +20,7 @@ jobs:
       
       # Use the official Gradle Setup Action for robust caching and setup.
       - name: Setup Gradle
-        uses: gradle/actions/setup-gradle@v3
+        uses: gradle/actions/setup-gradle@v4
 
       - name: ☕ Setup Java
         uses: actions/setup-java@v5
