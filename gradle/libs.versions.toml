@@ -132,7 +132,7 @@ hilt-navigation-compose = { group = "androidx.hilt", name = "hilt-navigation-com
 
 # ===== Kotlin & Coroutines =====
 kotlin-reflect = { module = "org.jetbrains.kotlin:kotlin-reflect", version.ref = "kotlinReflect" }
-kotlin-stdlib = { module = "org.jetbrains.kotlin:kotlin-stdlib", version = "2.2.20-RC" }
+kotlin-stdlib = { module = "org.jetbrains.kotlin:kotlin-stdlib", version = "2.2.20-RC2" }
 kotlinx-coroutines-android = { group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-android", version.ref = "kotlinxCoroutines" }
 kotlinx-coroutines-core = { group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-core", version.ref = "kotlinxCoroutines" }
 kotlinx-serialization-json = { group = "org.jetbrains.kotlinx", name = "kotlinx-serialization-json", version.ref = "kotlinxSerialization" }
