@@ -1,6 +1,6 @@
 [versions]
 # ===== Project & Build Tools =====
-agp = "9.0.0-alpha02"
+agp = "9.0.0-alpha04"
 googleServices = "4.4.3"
 kotlin = "2.2.20-RC"
 ksp = "2.2.20-RC-2.0.2"
