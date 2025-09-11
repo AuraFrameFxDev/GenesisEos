@@ -21,7 +21,7 @@ material3 = "1.3.2"
 navigationCompose = "2.9.3"
 roomVersion = "2.7.2"
 androidxSecurity = "1.1.0"
-workManager = "2.10.3"
+workManager = "2.10.4"
 
 # ===== Google =====
 firebaseBom = "34.2.0"
