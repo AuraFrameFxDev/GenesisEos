@@ -70,7 +70,7 @@ auraBackendApiGenerator = "1.0.0"
 bouncycastle = "1.81"
 bcprovJdk18on = "1.81"
 commonsCompress = "1.28.0"
-gson = "2.13.1"
+gson = "2.13.2"
 tink = "1.18.0"
 xz = "1.10"
 
