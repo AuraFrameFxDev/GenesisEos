@@ -5,7 +5,7 @@ googleServices = "4.4.3"
 kotlin = "2.2.20-RC"
 ksp = "2.2.20-RC-2.0.2"
 openApiGenerator = "7.14.0"
-symbolProcessingGradlePlugin = "2.2.10-2.0.2"
+symbolProcessingGradlePlugin = "2.2.20-2.0.3"
 
 # ===== AndroidX =====
 activityCompose = "1.10.1"
