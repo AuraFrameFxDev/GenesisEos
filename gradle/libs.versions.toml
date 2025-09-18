@@ -67,7 +67,7 @@ yuki = "1.2.1"
 
 # ===== Security & Utilities =====
 auraBackendApiGenerator = "1.0.0"
-bouncycastle = "1.81"
+bouncycastle = "1.82"
 bcprovJdk18on = "1.81"
 commonsCompress = "1.28.0"
 gson = "2.13.1"
