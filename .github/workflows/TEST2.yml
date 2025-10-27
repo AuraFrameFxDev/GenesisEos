@@ -80,7 +80,7 @@ jobs:
       if: success() || failure()
 
     - name: 📊 Upload Build Reports
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v5
       if: always()
       with:
         name: build-reports-jdk${{ matrix.java-version }}
