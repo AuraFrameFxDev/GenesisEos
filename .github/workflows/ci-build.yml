@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 🏠 Checkout Genesis Protocol
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
       - name: 🔒 Ensure gradlew is executable
         run: chmod +x ./gradlew
